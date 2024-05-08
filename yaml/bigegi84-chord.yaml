@@ -1,4 +1,36 @@
 song:
+  - singer: Ada Band
+    title: Manja
+    chord:
+    lyric:
+      - Manja kau dambaku
+      - Slalu mengusik hatiku
+      - Sudikah dirimu
+      - Maafkan kecurangan diriku
+      - Dan bila mentari esok kan bersinar lagi
+      - Kuingin candamu warnai hariku
+      - Dan bila esok kau tiada hadir temaniku
+      - Tak terbayangkan setengah mati kehilanganmu
+      - Haruskah diriku
+      - Tuk bersujud di hadapmu
+      - Mestinya kau tahu
+      - Betapa besar merindunya jiwaku
+      - Dan bila mentari esok kan bersinar lagi
+      - Kuingin candamu warnai hariku
+      - Dan bila esok kau tiada hadir temaniku
+      - Tak terbayangkan setengah mati kehilanganmu
+      - Dan bila mentari esok kan bersinar lagi
+      - Kuingin candamu warnai hariku
+      - Dan bila esok kau tiada hadir temaniku
+      - Tak terbayangkan setengah mati kehilanganmu
+      - Dan bila mentari esok kan bersinar lagi
+      - Kuingin candamu warnai hariku
+      - Dan bila esok kau tiada hadir temaniku
+      - Tak terbayangkan setengah mati kehilanganmu
+      - Manja sayangku
+    show:
+      chord: false
+      lyric: false
   - singer: Afghan
     title: Bawalah Cintaku
     chord:
