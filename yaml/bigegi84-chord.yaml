@@ -1,0 +1,94 @@
+song:
+  - singer: Afghan
+    title: Bawalah Cintaku
+    chord:
+      intro: E A Ab Dbm A Dbm Gbm B
+      verse 1: E A Ab Dbm Gb B E A Ab Dbm Gb B
+      reff: E A Ab Dbm A Abm Gbm B E A Ab Dbm A Abm Dbm Gbm B E
+      bridge: A D Db Gbm D Dbm Bm E
+      reff overtune: Gb B Bb Ebm B Gb Abm Db Gb B Bb Ebm B Bbm Ebm Abm Db Gb
+    lyric:
+      - Sumpah tak ada lagi
+      - Kesempatanku untuk bisa bersamamu
+      - Kini ku tau bagaimana cara ku untuk dapat
+      - Trus denganmu
+      - Bawalah pergi cintaku
+      - Ajak kemana pun kau mau
+      - Jadikan temanmu
+      - Temanmu paling kau cinta
+      - Disini ku pun begitu
+      - Trus cintaimu dihidupku
+      - Didalam hatiku
+      - Sampai waktu yang pertemukan
+      - Kita nanti
+      - Sumpah tak ada lagi
+      - Kesempatan untuk bisa bersamamu (bersamamu)
+      - Kini ku tau bagaimana cara ku untuk dapat
+      - Trus denganmu
+      - Bawalah pergi cintaku
+      - Ajak kemana pun kau mau
+      - Jadikan temanmu
+      - Temanmu paling kau cinta
+      - Disini ku pun begitu
+      - Trus cintaimu dihidupku
+      - Didalam hatiku
+      - Sampai waktu yang pertemukan
+      - Kita nanti
+      - Oh
+      - Bawalah pergi cintaku
+      - Ajak kemana pun kau mau
+      - Jadikan temanmu (temanmu paling kau cinta)
+      - Disini ku pun begitu
+      - Trus cintaimu dihidupku
+      - Didalam hatiku (sampai waktu yang pertemukan)
+      - Kita nanti
+    show:
+      chord: false
+      lyric: false
+  - singer: Mahalini
+    title: Sisa Rasa
+    chord:
+      verse 1: A Dbm Em Gb Bm Dm A Gbm B E
+      reff: A Dbm G Gb Bm Dm A Gbm Bm E A
+      bridge: D Dbm Gbm Bm E A G E D Dbm C F E
+      last chord: Dbm B Bm E A
+    lyric:
+      - Ha-ah-ah-ah
+      - Melihatmu bahagia, satu hal yang terindah
+      - Anug'rah cinta yang pernah kupunya
+      - Kau buatku percaya ketulusan cinta
+      - Seakan kisah sempurna 'kan tiba
+      - Masih jelas teringat pelukanmu yang hangat
+      - Seakan semua tak mungkin menghilang
+      - Kini hanya kenangan yang telah kau tinggalkan
+      - Tak tersisa lagi waktu bersama
+      - Mengapa masih ada
+      - Sisa rasa di dada
+      - Di saat kau pergi begitu saja?
+      - Mampukah ku bertahan
+      - Tanpa hadirmu, sayang?
+      - Tuhan, sampaikan rindu untuknya (rindu untuknya)
+      - Masih jelas teringat (jelas teringat) pelukanmu yang hangat
+      - Seakan semua tak mungkin menghilang (menghilang)
+      - Kini hanya kenangan yang t'lah kau tinggalkan
+      - Tak tersisa lagi waktu bersama (waktu bersama)
+      - Mengapa masih ada
+      - Sisa rasa di dada
+      - Di saat kau pergi begitu saja? (Begitu saja)
+      - Mampukah ku bertahan
+      - Tanpa hadirmu, sayang?
+      - Tuhan, sampaikan rindu untuknya
+      - Oh, masih tersimpan
+      - Setiap kÐµnangan, ho-wo-wo-oh
+      - Semua cinta yang kau beri
+      - Kau takkan terganti
+      - MÐµngapa masih ada (masih ada)
+      - Sisa rasa di dada (rasa di dada)
+      - Di saat kau pergi begitu saja?
+      - Mampukah ku bertahan
+      - (Tanpa hadirmu, sayang?)
+      - Tuhan, sampaikan rindu untuknya
+      - Sampaikan rinduku untuknya
+    show:
+      chord: false
+      lyric: false
